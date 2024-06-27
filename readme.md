@@ -28,7 +28,7 @@ You can try Book Library Search here:
 
 - Enter a book category in the search bar (for example: fantasy).
 - The search engine will provide you with all sorts of books that belong to the subject you've chosen.
-- If you want to learn more about the book, you can press the button "Read Description" to visualize a brief summary of the book.
+- If you want to learn more about the book, you can press the button "Show Description" to visualize a brief summary of the book.
 
 
 ## API Reference
