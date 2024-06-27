@@ -14,7 +14,7 @@ A search engine that allows the user to search for book categories and then disp
 Clone the project
 
 ```bash
-  git clone https://github.com/MrBrollo/BookLibrary.git
+  git clone https://github.com/MrBrollo/BookLibrarySearch.git
 ```
 
 
