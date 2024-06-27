@@ -23,7 +23,7 @@ Clone the project
 You can try Book Library Search here:
 
 ```bash
-  link netlify still to come
+  https://booklibrarysearch.netlify.app
 ```
 
 - Enter a book category in the search bar (for example: fantasy).
