@@ -6,7 +6,7 @@ A search engine that allows the user to search for book categories and then disp
 
 ## Demo
 
-<link href="/img/BookSearchgif.gif">
+![App BookLibrarySearch](/img/BookSearchgif.gif)
 
 
 ## Run Locally
